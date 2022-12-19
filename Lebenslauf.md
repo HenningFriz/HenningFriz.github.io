@@ -1,4 +1,7 @@
-﻿**Lebenslauf**
+---﻿
+title:CV
+layout: page
+---
 
 **Jan-Henning Friz**
 
