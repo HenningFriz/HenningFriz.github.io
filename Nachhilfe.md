@@ -3,9 +3,5 @@ layout: default
 title: "Nachhilfe"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Nachhilfe" %}
-{% endif %}
-
+Die Notizen meiner Nachhilfe im Fach Mathematik finden Sie unter 
+[diesem Link](https://drive.google.com/drive/folders/1AAoAJ-Jt57DLzBYcUa_BxFxcGmiYvOfv?usp=sharing)
