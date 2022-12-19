@@ -1,7 +1,8 @@
 ---
-title: Lebenslauf
+title: 
 layout: page
 ---
+Mein Lebenslauf kann im Folgenden gelesen werden oder als englische Version oder deutsche Version heruntergeladen werden
 
 <h2>Beruferfahrung</h2>
 
@@ -19,18 +20,11 @@ Arbeitsbereiche der Technik-AG:
 Mitarbeit an einer empirischen Untersuchung beim Forschungsprojekt NATtA. 
 
 <h2>Ausbildung</h2>
-Seit 09/21  **ETH Zürich** 
-B.Sc. Interdisziplinäre Naturwissenschaften, physikalisch- chemische Fachrichtung** 
-
-08/18 - 06/21  **Deutsches Gymnasium für Nordschleswig** 
-Hochschulreife, Mathematische Studienrichtung 
-
-08/18 - 02/21  **ATU Syd (Akademiet for talentfulde Unge)**  
-Begabten-Förderungsprogramm, welches Schülern ermöglicht Universitätskurse und andere Kurse zur persönlichen Weiterbildung (siehe Kurse unten) zu besuchen 
-
-10/09 - 06/18  **Folkeskole Hærvejsskolen** Grund- und Sekundarschule
-
-08/08 - 10/09  **Deutsche Schule Rothenkrug** Grundschule 
+Seit 09/21     **ETH Zürich:** B.Sc. Interdisziplinäre Naturwissenschaften, physikalisch- chemische Fachrichtung** 
+08/18 - 06/21  **Deutsches Gymnasium für Nordschleswig:** Hochschulreife, Mathematische Studienrichtung 
+08/18 - 02/21  **ATU Syd (Akademiet for talentfulde Unge):**  Begabten-Förderungsprogramm, welches Schülern ermöglicht Universitätskurse und andere Kurse zur persönlichen Weiterbildung (siehe Kurse unten) zu besuchen 
+10/09 - 06/18  **Folkeskole Hærvejsskolen:** Grund- und Sekundarschule
+08/08 - 10/09  **Deutsche Schule Rothenkrug:** Grundschule 
 
 <h2>Weiteres</h2> 
 - Dreimalige Teilnahme am Georg-Mohr-Wettbewerb 
