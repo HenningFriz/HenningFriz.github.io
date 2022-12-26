@@ -10,7 +10,7 @@ Mein Lebenslauf kann im Folgenden gelesen werden oder als [englische Version](CV
 **Deutsches Gymnasium für Nordschleswig:** Im Leitungsteam des Mathe-Cafés.  
 Hierbei insbesondere Nachhilfe in Mathematik von bis zu 40 Schülern pro Stunde und Hilfestellungen mit wxMaxima (CAS-Programm) und dem Microsoft Word Plugin WordMat (hierbei auch allgemeine Hilfe zur Bedingung von Word). 
 
-08/20-06/21**Ehrenamtliche Leitung der Technik-AG des Deutschen Gymnasium für Nordschleswig:** 
+08/20-06/21 **Ehrenamtliche Leitung der Technik-AG des Deutschen Gymnasium für Nordschleswig:** 
 Projektkoordination und Unterrichten der Mitglieder in der praktischen Anwendung von Technik** 
 Arbeitsbereiche der Technik-AG: 
 - Arbeiten mit Arduinos und Raspberry PIs, um ein ferngesteuertes Auto zu erstellen.  
