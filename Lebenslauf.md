@@ -2,7 +2,7 @@
 title: 
 layout: page
 ---
-Mein Lebenslauf kann im Folgenden gelesen werden oder als englische Version oder deutsche Version heruntergeladen werden
+Mein Lebenslauf kann im Folgenden gelesen werden oder als [englische Version](CV JHFriz.pdf) oder [deutsche Version](Lebenlauf JHFriz.pdf) heruntergeladen werden
 
 <h2>Beruferfahrung</h2>
 
