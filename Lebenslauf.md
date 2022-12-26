@@ -6,25 +6,33 @@ Mein Lebenslauf kann im Folgenden gelesen werden oder als [englische Version](CV
 
 <h2>Beruferfahrung</h2>
 
-08/20-06/21   **Deutsches Gymnasium für Nordschleswig:** Im Leitungsteam des Mathe-Cafés.  
+08/20-06/21
+**Deutsches Gymnasium für Nordschleswig:** Im Leitungsteam des Mathe-Cafés.  
 Hierbei insbesondere Nachhilfe in Mathematik von bis zu 40 Schülern pro Stunde und Hilfestellungen mit wxMaxima (CAS-Programm) und dem Microsoft Word Plugin WordMat (hierbei auch allgemeine Hilfe zur Bedingung von Word). 
 
-08/20-06/21 **Ehrenamtliche Leitung der Technik-AG des Deutschen Gymnasium für Nordschleswig:** 
+08/20-06/21 
+**Ehrenamtliche Leitung der Technik-AG des Deutschen Gymnasium für Nordschleswig:** 
 Projektkoordination und Unterrichten der Mitglieder in der praktischen Anwendung von Technik** 
 Arbeitsbereiche der Technik-AG: 
 - Arbeiten mit Arduinos und Raspberry PIs, um ein ferngesteuertes Auto zu erstellen.  
 - Verwendung der Programmiersprache Python zu Untersuchung von Hamming-Codes. 
 - Hilfestellungen für das Installieren von Schulprogrammen auf Schülerlaptops (Windows 7/8/10, Linux, MacOS). 
 
-01/20-04/21  **Europa-Universität Flensburg:** 
+01/20-04/21
+**Europa-Universität Flensburg:** 
 Mitarbeit an einer empirischen Untersuchung beim Forschungsprojekt NATtA. 
 
 <h2>Ausbildung</h2>
-Seit 09/21     **ETH Zürich:** B.Sc. Interdisziplinäre Naturwissenschaften, physikalisch- chemische Fachrichtung** 
-08/18 - 06/21  **Deutsches Gymnasium für Nordschleswig:** Hochschulreife, Mathematische Studienrichtung 
-08/18 - 02/21  **ATU Syd (Akademiet for talentfulde Unge):**  Begabten-Förderungsprogramm, welches Schülern ermöglicht Universitätskurse und andere Kurse zur persönlichen Weiterbildung (siehe Kurse unten) zu besuchen 
-10/09 - 06/18  **Folkeskole Hærvejsskolen:** Grund- und Sekundarschule
-08/08 - 10/09  **Deutsche Schule Rothenkrug:** Grundschule 
+Seit 09/21     
+**ETH Zürich:** B.Sc. Interdisziplinäre Naturwissenschaften, physikalisch- chemische Fachrichtung** 
+08/18 - 06/21  
+**Deutsches Gymnasium für Nordschleswig:** Hochschulreife, Mathematische Studienrichtung 
+08/18 - 02/21  
+**ATU Syd (Akademiet for talentfulde Unge):**  Begabten-Förderungsprogramm, welches Schülern ermöglicht Universitätskurse und andere Kurse zur persönlichen Weiterbildung (siehe Kurse unten) zu besuchen 
+10/09 - 06/18  
+**Folkeskole Hærvejsskolen:** Grund- und Sekundarschule
+08/08 - 10/09  
+**Deutsche Schule Rothenkrug:** Grundschule 
 
 <h2>Weiteres</h2> 
 - Dreimalige Teilnahme am Georg-Mohr-Wettbewerb 
